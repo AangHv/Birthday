@@ -1,0 +1,88 @@
+.main {
+    margin-top: 100px;
+    
+}
+
+.searchTextBox {
+    display: block;
+    border:1px solid #dfe1e5 ;
+    border-radius: 24px;
+    line-height: 24;
+    height:24px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+.logo-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 40px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+}
+.btn-Search{
+    width: 200px;
+    background: #dfe1e5;
+    line-height: 12px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-right: 10px;
+
+}
+.btn-feelLucky{
+    width: 200px;
+    background: #dfe1e5;
+    line-height: 12px;
+    border-radius: 4px;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight: bold;
+    font-size: 14px;
+}
+/*.twt{
+    border: 1px solid #cfd9de;
+    background: white;
+    border-radius: 180px;
+    width: 100px;
+    height: 50;
+    text-align: center ;
+    color: #0f1419;
+    font-weight: bold;
+    padding-top:8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    
+}
+.Red{
+    background: red;
+    height: 100px;
+    margin-bottom: 100px;
+}
+.Blue{
+    background: blue;
+    height: 100px;
+}
+.Green{
+    background: green;
+    height: 100px;
+}*/
